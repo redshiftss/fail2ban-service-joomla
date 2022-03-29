@@ -18,19 +18,21 @@
 
 defined( '_JEXEC' ) or die;
 
+use Joomla\CMS\Authentication\Authentication;
 use Joomla\CMS\Plugin\CMSPlugin;
-use Joomla\Event\Event;
+use Joomla\CMS\User\User;
 use Joomla\Event\SubscriberInterface;
 
-class JoomlaFail2ban extends CMSPlugin implements SubscriberInterface
+
+class PlgAuthenticationJoomlafail2ban extends CMSPlugin implements SubscriberInterface
 {
-	/**
-	 * Load the language file on instantiation
-	 *
-	 * @var    boolean
-	 * @since  3.1
-	 */
-	protected $autoloadLanguage = true;
+	// /**
+	//  * Load the language file on instantiation
+	//  *
+	//  * @var    boolean
+	//  * @since  3.1
+	//  */
+	// // protected $autoloadLanguage = true;
 
 	/**
 	 * Returns an array of events this subscriber will listen to.
@@ -40,17 +42,26 @@ class JoomlaFail2ban extends CMSPlugin implements SubscriberInterface
 	public static function getSubscribedEvents(): array
 	{
 		return [
-			'<onUserLoginFailiure>' => 'authy_failiure',
+			'onUserAuthorisationFailure' => 'authy_failure',
 		];
 	}
 
 	/**
 	 * This method will be called in the event of a failiure to authenticate.
 	 */
-	 public function authy_failiure(Event $event)
-	 {
-		
+	public function authy_failure(Event $event)
+	{    
+		return null;
+		// echo "authy_failure";
+		// print "authy_failure";
 
-	 }
+		// $response->status = Authentication::STATUS_FAILURE;
+		// $response->error_message = 'autchyfailure called';
+		
+		// if ($ip !== '') {
+		//     $today          = new JDate();
+		//     $todayFormatted = $today->format('Y-m-d');
+		// }
 	}
-?>	
+}
+?>
