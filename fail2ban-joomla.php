@@ -40,7 +40,7 @@ class JoomlaFail2ban extends CMSPlugin implements SubscriberInterface
 	public static function getSubscribedEvents(): array
 	{
 		return [
-			'<onUserLoginFailure>' => 'authy_failiure',
+			'<onUserLoginFailiure>' => 'authy_failiure',
 		];
 	}
 
@@ -49,11 +49,8 @@ class JoomlaFail2ban extends CMSPlugin implements SubscriberInterface
 	 */
 	 public function authy_failiure(Event $event)
 	 {
-        
-        if ($ip !== '') {
-            $today          = new JDate();
-            $todayFormatted = $today->format('Y-m-d');
-        }
+		
+
+	 }
 	}
-}
-?>
+?>	
