@@ -19,7 +19,7 @@ def check_logfile():
     for i in ip_counter:
         if ip_counter[i] >= allowed_tries:
             print(i)
-            r = requests.post('127.0.0.1/api/block/{}'.format(i))
+            requests.post('http://localhost:8080/api/block/{}?key=4538f19b-9575-4cca-beba-a4382a37707d'.format(i))
 
 def to_action(str):
     str_bits = str.split(",")
