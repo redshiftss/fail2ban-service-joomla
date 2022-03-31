@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="authentication">
+    <name>Authentication - Myauth</name>
+    <author>Joomla! Documentation Project</author>
+    <creationDate>May 30, 2007</creationDate>
+    <copyright>(C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <authorEmail>admin@joomla.org</authorEmail>
+    <authorUrl>www.joomla.org</authorUrl>
+    <version>1.0</version>
+    <description>An sample authentication plugin</description>
+    <files>
+        <filename plugin="myauth">myauth.php</filename>
+    </files>
+    <config/>
+</extension>

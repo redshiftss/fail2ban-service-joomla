@@ -1,0 +1,69 @@
+Id,Action,Extension,Date,Name,"IP Address"
+1,"User admin logged in to admin",Users,"2022-03-29 13:48:19 UTC",Administrator,Disabled
+2,"User admin installed the package joomie",Installer,"2022-03-29 13:55:36 UTC",Administrator,Disabled
+3,"User admin installed the package joomie",Installer,"2022-03-29 13:55:44 UTC",Administrator,Disabled
+4,"User admin installed the plugin joomie",Installer,"2022-03-29 13:56:53 UTC",Administrator,Disabled
+5,"User admin installed the plugin joomie",Installer,"2022-03-29 13:57:07 UTC",Administrator,Disabled
+6,"User admin installed the file joomie",Installer,"2022-03-29 13:58:02 UTC",Administrator,Disabled
+7,"User admin installed the file joomie",Installer,"2022-03-29 14:00:32 UTC",Administrator,Disabled
+8,"User admin installed the file joomie",Installer,"2022-03-29 14:02:10 UTC",Administrator,Disabled
+9,"User admin installed the file joomie",Installer,"2022-03-29 14:02:25 UTC",Administrator,Disabled
+10,"User admin installed the file joomie",Installer,"2022-03-29 14:03:46 UTC",Administrator,Disabled
+11,"User admin installed the module joomie",Installer,"2022-03-29 14:05:23 UTC",Administrator,Disabled
+12,"User admin installed the plugin joomie",Installer,"2022-03-29 14:06:53 UTC",Administrator,Disabled
+13,"User admin uninstalled the plugin joomie",Installer,"2022-03-29 14:09:35 UTC",Administrator,Disabled
+14,"User admin installed the plugin joomie",Installer,"2022-03-29 14:09:50 UTC",Administrator,Disabled
+15,"A failed attempt was made to login as admin to site",Users,"2022-03-29 14:10:34 UTC",Administrator,Disabled
+16,"A failed attempt was made to login as admin to site",Users,"2022-03-29 14:10:43 UTC",Administrator,Disabled
+17,"User admin uninstalled the plugin joomie",Installer,"2022-03-29 14:13:07 UTC",Administrator,Disabled
+18,"User admin installed the plugin joomie",Installer,"2022-03-29 14:13:12 UTC",Administrator,Disabled
+19,"A failed attempt was made to login as admin to site",Users,"2022-03-29 14:18:22 UTC",Administrator,Disabled
+20,"A failed attempt was made to login as admin to site",Users,"2022-03-29 14:20:02 UTC",Administrator,Disabled
+21,"User admin logged in to site",Users,"2022-03-29 14:20:56 UTC",Administrator,Disabled
+22,"User admin logged out from site",Users,"2022-03-29 14:20:58 UTC",Administrator,Disabled
+23,"A failed attempt was made to login as admin to site",Users,"2022-03-29 14:21:16 UTC",Administrator,Disabled
+24,"User admin logged in to site",Users,"2022-03-29 14:21:24 UTC",Administrator,Disabled
+25,"User admin logged out from site",Users,"2022-03-29 14:21:31 UTC",Administrator,Disabled
+26,"User admin uninstalled the plugin joomie",Installer,"2022-03-29 14:23:08 UTC",Administrator,Disabled
+27,"User admin installed the plugin joomie",Installer,"2022-03-29 14:23:13 UTC",Administrator,Disabled
+28,"A failed attempt was made to login as admin to site",Users,"2022-03-29 14:23:57 UTC",Administrator,Disabled
+29,"User admin uninstalled the plugin joomie",Installer,"2022-03-29 14:25:49 UTC",Administrator,Disabled
+30,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:25:56 UTC",Administrator,Disabled
+31,"User admin uninstalled the plugin fail2ban",Installer,"2022-03-29 14:27:15 UTC",Administrator,Disabled
+32,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:27:20 UTC",Administrator,Disabled
+33,"User admin uninstalled the plugin fail2ban",Installer,"2022-03-29 14:29:50 UTC",Administrator,Disabled
+34,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:29:55 UTC",Administrator,Disabled
+35,"User admin uninstalled the plugin fail2ban",Installer,"2022-03-29 14:31:26 UTC",Administrator,Disabled
+36,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:31:31 UTC",Administrator,Disabled
+37,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:31:35 UTC",Administrator,Disabled
+38,"User admin uninstalled the plugin fail2ban",Installer,"2022-03-29 14:31:41 UTC",Administrator,Disabled
+39,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:31:47 UTC",Administrator,Disabled
+40,"User admin uninstalled the plugin fail2ban",Installer,"2022-03-29 14:33:00 UTC",Administrator,Disabled
+41,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:33:19 UTC",Administrator,Disabled
+42,"User admin uninstalled the plugin fail2ban",Installer,"2022-03-29 14:37:37 UTC",Administrator,Disabled
+43,"User admin installed the plugin fail2ban",Installer,"2022-03-29 14:37:41 UTC",Administrator,Disabled
+44,"A failed attempt was made to login as admin to site",Users,"2022-03-29 14:42:50 UTC",Administrator,Disabled
+45,"User admin logged in to site",Users,"2022-03-29 14:43:02 UTC",Administrator,Disabled
+46,"A failed attempt was made to login as admin to admin",Users,"2022-03-29 14:43:28 UTC",Administrator,Disabled
+47,"User admin logged in to admin",Users,"2022-03-29 14:43:37 UTC",Administrator,Disabled
+48,"User admin uninstalled the plugin fail2ban",Installer,"2022-03-29 14:44:08 UTC",Administrator,Disabled
+49,"User admin installed the plugin fail2banjoomla",Installer,"2022-03-29 14:44:45 UTC",Administrator,Disabled
+50,"User admin installed the plugin fail2banjoomla",Installer,"2022-03-29 14:46:01 UTC",Administrator,Disabled
+51,"User admin logged in to admin",Users,"2022-03-29 15:09:18 UTC",Administrator,Disabled
+52,"User admin installed the plugin fail2banjoomla",Installer,"2022-03-29 15:09:49 UTC",Administrator,Disabled
+53,"User admin performed a check in to table #__extensions",Check-in,"2022-03-29 15:10:36 UTC",Administrator,Disabled
+54,"User admin unpublished the plugin fail2banjoomla",Plugins,"2022-03-29 15:10:36 UTC",Administrator,Disabled
+55,"User admin performed a check in to table #__extensions",Check-in,"2022-03-29 15:11:27 UTC",Administrator,Disabled
+56,"User admin published the plugin fail2banjoomla",Plugins,"2022-03-29 15:11:27 UTC",Administrator,Disabled
+57,"User admin performed a check in to table #__extensions",Check-in,"2022-03-29 15:13:38 UTC",Administrator,Disabled
+58,"User admin uninstalled the plugin fail2banjoomla",Installer,"2022-03-29 15:22:30 UTC",Administrator,Disabled
+59,"User admin installed the plugin fail2banjoomla",Installer,"2022-03-29 15:25:10 UTC",Administrator,Disabled
+60,"User admin uninstalled the plugin fail2banjoomla",Installer,"2022-03-29 15:37:13 UTC",Administrator,Disabled
+61,"User admin installed the plugin Authentication - Myauth",Installer,"2022-03-29 15:37:38 UTC",Administrator,Disabled
+62,"A failed attempt was made to login as admin to site",Users,"2022-03-30 13:47:56 UTC",Administrator,Disabled
+63,"User admin logged in to site",Users,"2022-03-30 13:48:08 UTC",Administrator,Disabled
+64,"User admin logged in to admin",Users,"2022-03-30 13:48:25 UTC",Administrator,Disabled
+65,"User admin changed settings of the component User Actions Log",Configuration,"2022-03-30 13:51:34 UTC",Administrator,Disabled
+66,"User admin exported one or more rows from the action log","User Actions Log","2022-03-30 13:52:27 UTC",Administrator,2001:41f0:9639:1:e8a1:da3a:fe06:149d
+67,"A failed attempt was made to login as admin to site",Users,"2022-03-31 11:17:56 UTC",Administrator,2001:41f0:9639:1:e8a1:da3a:fe06:149d
+68,"A failed attempt was made to login as admin to site",Users,"2022-03-31 11:18:56 UTC",Administrator,2001:41f0:9639:1:e8a1:da3a:fe06:149d

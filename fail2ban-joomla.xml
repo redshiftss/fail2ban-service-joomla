@@ -1,7 +1,0 @@
-<extension type="plugin" group="authentication">
-    <name>fail2ban</name>
-    <files>
-        <filename plugin="fail2ban">fail2ban.php</filename>
-    </files>
-    <config/>
-</extension>
